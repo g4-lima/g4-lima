@@ -1,4 +1,4 @@
-<img width="100px" src="https://media.giphy.com/media/7Y6LqcSxOcKBjvUTYS/giphy.gif" />
+<img src="https://media.giphy.com/media/7Y6LqcSxOcKBjvUTYS/giphy.gif" />
 
 Here are some ideas to get you started:
 
