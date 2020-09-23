@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React, Node.js and TypeScript.
 - 🔭 Future Goals: Become a full stack developer.
-- ⚡ Fun fact: I love listen to music and travel.
+- ⚡ About me: I love listen to music and travel.
 
 <br />
 <br />
