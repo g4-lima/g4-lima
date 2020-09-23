@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**g4-lima/g4-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100px" src="https://media.giphy.com/media/7Y6LqcSxOcKBjvUTYS/giphy.gif" />
 
 Here are some ideas to get you started:
 
