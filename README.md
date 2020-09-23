@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+<br />
+
 - 🌱 I’m currently learning React, Node.js and TypeScript.
 - 🔭 Future Goals: Become a full stack developer.
 - ⚡ Fun fact: I love listen to music and travel.
