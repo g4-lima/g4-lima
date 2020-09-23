@@ -28,12 +28,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-
 <br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 
 ---
 
