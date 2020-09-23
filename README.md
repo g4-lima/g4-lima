@@ -15,7 +15,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Gabriel | LinkedIn" height="30px" src="https://br.freepik.com/icones-gratis/linkedin_880975.svg"/>][linkedin]
+[<img align="left" alt="Gabriel | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/104/104639.png"/>][linkedin]
 [<img align="left" alt="Gabriel | E-mail" height="30px" src="https://image.flaticon.com/icons/png/512/67/67177.png" />][email]
 
 <br />
