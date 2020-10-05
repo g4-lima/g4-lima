@@ -37,6 +37,6 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/gabriel-bastos-lima-b86832149/
+[linkedin]: https://www.linkedin.com/in/gabriel-b-lima/
 [email]: mailto:gabastos.lima@gmail.com
 
